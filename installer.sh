@@ -1,8 +1,9 @@
-#!/bin/bash
+﻿#!/bin/bash
 if [ -z `ls /bin/ | grep easy-nmap` ]
 then
 mv installer.sh /bin/easy-nmap
 chmod +x /bin/easy-nmap
+rm -f screen.png
 cd ..
 rm -rf easy-nmap
 clear
