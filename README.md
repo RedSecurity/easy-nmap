@@ -17,4 +17,4 @@ You can run the above command anywhere in terminal
 ## ScreenShot
 ![salam](./screen.png)
 ## Contact us
-WebSite: redsecurity.xyz\nEmail: info@redsecurity.xyz
+WebSite: redsecurity.xyz<br/>Email: info@redsecurity.xyz
