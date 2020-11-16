@@ -1,9 +1,14 @@
-if [ -z `ls /usr/local/bin | grep easy-nmap` ]
+#!/bin/bash
+if [ -z `ls /bin/ | grep easy-nmap` ]
 then
-mv installer.sh /usr/local/bin/easy-nmap
-chmod +x /usr/local/bin/easy-nmap
+mv installer.sh /bin/easy-nmap
+chmod +x /bin/easy-nmap
 cd ..
 rm -rf easy-nmap
+clear
+echo ""
+echo `tput setaf 82` "Installation was Successful !!!"
+echo ""
 exit
 fi
 echo `tput setaf 1`"
