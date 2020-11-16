@@ -1,4 +1,4 @@
-# easy-nmap
+ # easy-nmap
 This tool makes using nmap easier
 ## installation
 Just run the following commands to install
@@ -17,5 +17,4 @@ You can run the above command anywhere in terminal
 ## ScreenShot
 ![salam](./screen.png)
 ## Contact us
-WebSite: redsecurity.xyz
-Email: info@redsecurity.xyz
+WebSite: redsecurity.xyz\nEmail: info@redsecurity.xyz
