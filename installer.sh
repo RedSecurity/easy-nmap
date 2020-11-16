@@ -1,4 +1,4 @@
-﻿if [ -z `ls /usr/local/bin | grep easy-nmap` ]
+if [ -z `ls /usr/local/bin | grep easy-nmap` ]
 then
 mv installer.sh /usr/local/bin/easy-nmap
 chmod +x /usr/local/bin/easy-nmap
