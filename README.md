@@ -1,5 +1,7 @@
  # easy-nmap
 This tool makes using nmap easier
+## ScreenShot
+![salam](./screen.png)
 ## installation
 Just run the following commands to install
 ```
@@ -14,7 +16,5 @@ Just run the following command
 easy-nmap
 ```
 You can run the above command anywhere in terminal
-## ScreenShot
-![salam](./screen.png)
 ## Contact us
 WebSite: https://redsecurity.xyz<br/>Email: info@redsecurity.xyz
