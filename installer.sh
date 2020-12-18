@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /bin/bash
 if [ -z `ls /bin/ | grep easy-nmap` ]
 then
 mv installer.sh /bin/easy-nmap
