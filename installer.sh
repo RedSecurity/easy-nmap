@@ -29,14 +29,18 @@ echo `tput setaf 1`"
  --------------------------------------------------------------------------
 "
 sleep .12
-echo `tput setaf 45` 'Please select an option :) '
+echo `tput setaf 11` 'Please select an option :) '
 sleep .12
+echo `tput setaf 45`
 echo '[1] Port Scan'
 sleep .12
+echo ''
 echo '[2] Script Scan'
 sleep .12
+echo ''
 echo '[3] Host Discovery'
 sleep .12
+echo ''
 echo '[4] INFO'
 echo ''
 sleep .12
