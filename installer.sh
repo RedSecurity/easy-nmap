@@ -1,8 +1,8 @@
 #! /bin/bash
 if [ -z `ls /usr/bin/easy-nmap 2>/dev/null` ]
 then
-mv installer.sh /usr/bin/easy-nmap
-chmod +x /usr/bin/easy-nmap
+sudo mv installer.sh /usr/bin/easy-nmap
+sudo chmod +x /usr/bin/easy-nmap
 rm -f screen.png
 cd ..
 rm -rf easy-nmap
