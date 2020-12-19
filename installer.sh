@@ -216,7 +216,7 @@ then
 port=''
 elif [ $scan == 3 ]
 then
-read -p 'Your Custom Port: ' port2
+read -p 'Your Custom Ports: ' port2
 port="-p $port2"
 fi
 
