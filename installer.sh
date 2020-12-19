@@ -197,8 +197,10 @@ echo `tput setaf 45` ''
 sleep .12
 echo '[1] All port'
 sleep .12
+echo ''
 echo '[2] Top port'
 sleep .12
+echo ''
 echo '[3] Custom port'
 sleep .12
 echo ''
